@@ -1,0 +1,51 @@
+﻿Исходный ID (Uploaded),Ген,Наиболее значимое последствие,Правило выбора транскрипта,rsID,gnomAD AF,Наличие ClinVar,Интерпретация ClinVar
+rs116645811,MRPL39,missense_variant,Other,-,0.000151008,No,-
+rs1135638,MRPL39,synonymous_variant,Other,-,0.783378,No,-
+rs116331755,MRPL39,synonymous_variant,Other,-,0.000288793,No,-
+rs114942253,SYNJ1,missense_variant,Other,-,0.00241041,Yes,Likely benign
+rs115458101,IFNGR2,synonymous_variant,Canonical,-,5.91413e-05,Yes,Likely benign
+rs73901831,PIGP,non_coding_transcript_exon_variant,Other,-,0.00660408,Yes,Benign
+rs73200245,PIGP,upstream_gene_variant,Other,-,0.230553,Yes,Benign
+rs115908228,ETS2,missense_variant,Other,-,3.28381e-05,No,-
+rs457705,ETS2,synonymous_variant,Other,-,0.73894,No,-
+rs61737060,U2AF1,synonymous_variant,Canonical,-,0.00784512,No,-
+rs61737061,U2AF1,synonymous_variant,Canonical,-,0.00519309,No,-
+rs115397760,AGPAT3,synonymous_variant,Canonical,-,0.00249283,No,-
+rs79309256,AGPAT3,synonymous_variant,Canonical,-,0.00359693,No,-
+rs7289170,ADA2,synonymous_variant,Other,-,0.279213,Yes,Benign
+rs34000365,HIRA,synonymous_variant,Canonical,-,0.00780665,Yes,Benign
+rs115157927,HIRA,missense_variant,Canonical,-,0.000360973,Yes,Uncertain significance
+rs5993890,COMT,downstream_gene_variant,Other,-,0.0749189,Yes,Benign
+rs114971216,COMT,downstream_gene_variant,Other,-,0.00809416,Yes,Benign
+rs74544696,ARVCF,synonymous_variant,Canonical,-,0.0235973,Yes,Benign
+rs61736862,ARVCF,synonymous_variant,Canonical,-,0.019938,Yes,Benign
+rs80068543,ARVCF,missense_variant,Canonical,-,0.0245688,Yes,Benign
+rs2073747,ARVCF,synonymous_variant,Canonical,-,0.761858,No,-
+rs114537607,SDF2L1,synonymous_variant,Canonical,-,6.56892e-06,No,-
+rs9610729,TOP3B,synonymous_variant,Canonical,-,0.104881,Yes,Benign
+rs61747143,RSPH14,upstream_gene_variant,Canonical,-,0.00262671,No,-
+rs115180746,SUSD2,missense_variant,Canonical,-,0.00677521,No,-
+rs116768581,SUSD2,missense_variant,Canonical,-,0.00534675,No,-
+rs8141797,SUSD2,missense_variant,Canonical,-,0.0965502,Yes,Benign
+rs5749104,SEC14L3,synonymous_variant,Canonical,-,0.689391,No,-
+rs115111929,SEC14L3,missense_variant,Canonical,-,-,No,-
+rs2269961,SEC14L3,missense_variant,Canonical,-,0.217125,No,-
+rs116469787,SEC14L3,synonymous_variant,Canonical,-,0.00270721,No,-
+rs112070427,GAL3ST1,synonymous_variant,Other,-,0.00985875,No,-
+rs2267161,GAL3ST1,missense_variant,Other,-,0.324102,Yes,Benign
+rs114015937,SMTN,missense_variant,Canonical,-,1.31365e-05,No,-
+rs115143483,SMTN,missense_variant,Canonical,-,0.00203634,Yes,Uncertain significance
+rs5997927,LIMK2,synonymous_variant,Canonical,-,0.00029538,No,-
+rs79923828,PIK3IP1,downstream_gene_variant,Canonical,-,0.00399848,No,-
+rs113253213,LARGE1,synonymous_variant,Other,-,0.00158801,Yes,Conflicting classifications of pathogenicity
+rs115686643,LARGE1,synonymous_variant,Other,-,3.94374e-05,Yes,Conflicting classifications of pathogenicity
+rs115801300,LARGE1,missense_variant,Other,-,-,No,-
+rs116555717,PDGFB,missense_variant,Canonical,-,0.000249485,Yes,Conflicting classifications of pathogenicity
+rs17565,PDGFB,missense_variant,Canonical,-,0.00208897,Yes,Benign/Likely benign
+rs114671146,SYNGR1,downstream_gene_variant,Other,-,0.00239577,No,-
+rs116765273,ENTHD1,synonymous_variant,Canonical,-,3.28222e-05,No,-
+rs114714334,ENTHD1,synonymous_variant,Canonical,-,3.28463e-05,No,-
+rs8139570,ENTHD1,synonymous_variant,Canonical,-,0.0103244,No,-
+rs12330063,FAM83F,missense_variant,Canonical,-,0.0110163,No,-
+rs5995794,FAM83F,missense_variant,Canonical,-,0.27069,No,-
+rs115264708,PHF21B,missense_variant,Canonical,-,0.00259404,No,-
